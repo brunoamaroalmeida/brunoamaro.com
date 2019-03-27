@@ -1,0 +1,4 @@
+$(document).ready(function() {
+    var time = moment().tz("Europe/Helsinki").format("h:mm A");
+    $("#time").html(time);
+})
