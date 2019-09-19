@@ -13,4 +13,4 @@ jobs:
 
       - run:
           name: Install Hugo
-          command: sudo apt-get install hugo -qy
+          command: apt-get install hugo -qy
