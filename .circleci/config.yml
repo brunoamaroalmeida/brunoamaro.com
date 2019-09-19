@@ -18,8 +18,8 @@ jobs:
 
       - run:
           name: Generate Static Content
-          command: hugo -s
+          command: hugo
 
       - run:
           name: List
-          command: ls -lh      
+          command: ls -lh
