@@ -14,7 +14,7 @@ jobs:
           command: |
             if [ -f ".gitmodules" ]; then
               git submodule sync
-              git submodule update --init --recursive
+              git submodule update --force --recursive --init --remote
             fi
       - run:
           name: Generate Static Content
