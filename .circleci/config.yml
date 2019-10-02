@@ -33,4 +33,4 @@ jobs:
 
       - deploy:
           name: Deploy
-          command: cd public && find . -type f -exec curl -u ${username}:${password} ${ssl} --ssl-reqd --ftp-create-dirs -T {} ftp://${host}/{} \;
+          command: cd $HUGO_BUILD_DIR && find . -type f -exec curl -u ${username}:${password} ${ssl} --ssl-reqd --ftp-create-dirs -T {} ftp://${host}/{} \;
