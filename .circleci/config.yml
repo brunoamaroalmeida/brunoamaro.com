@@ -17,4 +17,4 @@ jobs:
 
       - run:
           name: Deploy
-          command: find public/ -type f -exec curl -u ${username}:${password} ${ssl} --ssl-reqd --ftp-create-dirs -T {} ftp://${host}/{} \;
+          command: cd public && find . -type f -exec curl -u ${username}:${password} ${ssl} --ssl-reqd --ftp-create-dirs -T {} ftp://${host}/{} \;
