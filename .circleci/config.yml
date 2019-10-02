@@ -21,9 +21,5 @@ jobs:
           command: hugo
 
       - run:
-          name: List
-          command: ls -lh public/*
-
-      - run:
           name: Deploy
-          command: echo ${hello}
+          command: find . -type f -exec curl -u ${username}:${password} ${ssl} --ssl-reqd --ftp-create-dirs -T {} ftp://${host}/{} \;
