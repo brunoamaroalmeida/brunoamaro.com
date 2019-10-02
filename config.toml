@@ -42,6 +42,10 @@ theme = "introduction"
         icon  = "github" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
+        url   = "https://www.instagram.com/brunoamaroalmeida"
+        icon  = "instagram" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
         url   = "https://twitter.com/bruno_amaro"
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
