@@ -22,7 +22,7 @@ jobs:
 
       - run:
           name: List
-          command: ls -lh
+          command: ls -lh public/*
 
       - run:
           name: Deploy
