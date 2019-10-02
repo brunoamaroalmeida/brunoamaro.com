@@ -7,16 +7,15 @@ jobs:
     steps:
       - checkout
       - run:
+          name: Install Hugo
+          command: apt-get update && apt-get install git curl  -qy
+      - run:
           name: Checkout Submodules if Needed
           command: |
             if [ -f ".gitmodules" ]; then
               git submodule sync
               git submodule update --init --recursive
             fi
-      - run:
-          name: Install Hugo
-          command: apt-get update && apt-get install curl  -qy
-
       - run:
           name: Generate Static Content
           command: hugo
