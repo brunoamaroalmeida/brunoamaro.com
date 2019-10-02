@@ -2,13 +2,18 @@ version: 2
 jobs:
   build:
     docker:
-      - image: debian:stretch
-
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
     steps:
+
+      # install git
+      - run: apk update && apk add git
+
+      # checkout the repository
       - checkout
-      - run:
-          name: Install Hugo
-          command: apt-get update && apt-get install git curl  -qy
+
       - run:
           name: Checkout Submodules if Needed
           command: |
@@ -16,10 +21,16 @@ jobs:
               git submodule sync
               git submodule update --force --recursive --init --remote
             fi
-      - run:
-          name: Generate Static Content
-          command: hugo
+
+   # build with Hugo
+      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
 
       - run:
+          name: test our generated HTML files
+          command: |
+            htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
+            --empty-alt-ignore --disable-external
+
+      - deploy:
           name: Deploy
           command: cd public && find . -type f -exec curl -u ${username}:${password} ${ssl} --ssl-reqd --ftp-create-dirs -T {} ftp://${host}/{} \;
