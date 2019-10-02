@@ -23,3 +23,7 @@ jobs:
       - run:
           name: List
           command: ls -lh
+
+      - run:
+          name: Deploy
+          command: echo ${hello}
