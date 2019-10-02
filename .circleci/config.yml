@@ -6,8 +6,7 @@ workflows:
   main:
     jobs:
       - hugo/build:
-          version: '0.55'
-          source: src/
+          source: /
           html-proofer: true
       - deploy:
           requires:
@@ -15,7 +14,7 @@ workflows:
           filters:
             branches:
               only: master
-              
+
 jobs:
   deploy:
     docker:
