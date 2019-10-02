@@ -8,13 +8,8 @@ jobs:
       - checkout
 
       - run:
-          name: Greeting
-          command: echo Hello, world.
-
-      - run:
           name: Install Hugo
-          command: apt-get update && apt-get install hugo -qy
-
+          command: apt-get update && apt-get install curl hugo -qy
 
       - run:
           name: Generate Static Content
