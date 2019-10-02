@@ -1,36 +1,37 @@
-version: 2.1
-orbs:
-  hugo: circleci/hugo@0.3.1
-
-workflows:
-  main:
-    jobs:
-      - hugo/build:
-          source: /
-          html-proofer: true
-      - deploy:
-          requires:
-            - hugo/build
-          filters:
-            branches:
-              only: master
-
+version: 2
 jobs:
-  deploy:
+  build:
     docker:
-      - image: debian:stretch
-
+      - image: cibuilds/hugo:latest
+    working_directory: ~/public
+    environment:
+      HUGO_BUILD_DIR: ~/public
     steps:
+
+      # install git and curl
+      - run: apk update && apk add git curl
+
+      # checkout the repository
       - checkout
 
-      - run:
-          name: Install Dependencies
-          command: apt-get update && apt-get install curl -qy
+      # install git submodules for managing third-party dependencies
+      - run: git submodule sync && git submodule update --init
 
       - run:
-          name: Generate Static Content
-          command: hugo
+          name: install AWS CLI (first install pip, the Python package manager)
+          command: |
+            apk add --update python python-dev py-pip build-base
+            pip install awscli
+
+      # build with Hugo
+      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
 
       - run:
-          name: Deploy
-          command: cd public && find . -type f -exec curl -u ${username}:${password} ${ssl} --ssl-reqd --ftp-create-dirs -T {} ftp://${host}/{} \;
+          name: test our generated HTML files
+          command: |
+            htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
+            --empty-alt-ignore --disable-external
+
+      - deploy:
+            name: Deploy
+            command: cd public && find . -type f -exec curl -u ${username}:${password} ${ssl} --ssl-reqd --ftp-create-dirs -T {} ftp://${host}/{} \;
