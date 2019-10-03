@@ -4,7 +4,7 @@ weight: 1
 ---
 
 <style type = "text/css">
-.markdown ul { text-align: left !important; }
+.markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
 
 * October/2019 **"What can Serverless AI/ML APIs tell us about Fake and Credible News?"** @ <a href="https://stockholm.serverlessdays.io" target="_blank">ServerlessDays Stockholm 2019</a> (Stockholm, Sweden 🇸🇪)
