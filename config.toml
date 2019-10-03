@@ -2,6 +2,8 @@ baseURL = "https://www.brunoamaro.com/"
 languageCode = "en-us"
 title = "Bruno Amaro Almeida"
 theme = "introduction"
+googleAnalytics = "GA_CHANGEME"
+
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
   #  favicon                      = "/img/fav.ico"          # Path to favicon file
