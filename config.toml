@@ -2,7 +2,7 @@ baseURL = "https://www.brunoamaro.com/"
 languageCode = "en-us"
 title = "Bruno Amaro Almeida"
 theme = "introduction"
-googleAnalytics = "GA_CHANGEME"
+googleAnalytics = "UA-149343088-1"
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
