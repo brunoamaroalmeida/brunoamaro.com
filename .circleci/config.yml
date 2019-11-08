@@ -9,7 +9,7 @@ jobs:
     steps:
 
       # install git
-      - run: apt update && apt install git nodejs -qy
+      - run: apt update && apt install git nodejs npm -qy
 
       - run: nodejs --version
 
