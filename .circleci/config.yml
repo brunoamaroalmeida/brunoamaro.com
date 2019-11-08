@@ -11,13 +11,6 @@ jobs:
       # install git
       - run: apt update && apt install git nodejs npm -qy
 
-      - run: nodejs --version
-
-      - run: whereis npm
-
-      # Install contentful
-      - run: npm install contentful-hugo
-
       # checkout the repository
       - checkout
 
@@ -29,6 +22,8 @@ jobs:
               git submodule update --force --recursive --init --remote
             fi
 
+   # Install contentful
+      - run: npm install contentful-hugo
 
    # Pull contentful content
       - run: npx contentful-hugo
