@@ -9,7 +9,7 @@ jobs:
     steps:
 
       # install git
-      - run: apt update && apt add git
+      - run: apt update && apt install git -qy
 
       # Install contentful
       - run: npm install contentful-hugo
