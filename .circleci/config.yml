@@ -9,7 +9,7 @@ jobs:
     steps:
 
       # install git
-      - run: apk update && apk add git
+      - run: apt update && apt add git
 
       # Install contentful
       - run: npm install contentful-hugo
@@ -26,7 +26,7 @@ jobs:
             fi
 
 
-   # Pull contentful content 
+   # Pull contentful content
       - run: npx contentful-hugo
 
    # build with Hugo
