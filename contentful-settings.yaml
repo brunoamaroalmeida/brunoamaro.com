@@ -4,3 +4,8 @@ singleTypes:
       fileName: about
       fileExtension: md
       mainContent: bioText
+    - id: guestarticles
+      directory: /content/home
+      fileName: guestarticles
+      fileExtension: md
+      mainContent: GuestArticlesText
