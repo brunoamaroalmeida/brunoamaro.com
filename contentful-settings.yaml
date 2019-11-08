@@ -8,4 +8,4 @@ singleTypes:
       directory: /content/home
       fileName: guestarticles
       fileExtension: md
-      mainContent: GuestArticlesText
+      mainContent: guestArticlesText
