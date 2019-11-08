@@ -1,0 +1,6 @@
+singleTypes:
+    - id: about
+      directory: /content/home
+      fileName: about
+      fileExtension: md
+      mainContent: bioText
