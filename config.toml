@@ -4,6 +4,9 @@ title = "Bruno Amaro Almeida"
 theme = "introduction"
 googleAnalytics = "UA-149343088-1"
 
+[markup.goldmark.renderer]
+    unsafe= true
+    
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
   #  favicon                      = "/img/fav.ico"          # Path to favicon file
