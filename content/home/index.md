@@ -3,6 +3,6 @@ title: "Hi, I'm Bruno"
 headless: true
 ---
 
-Mentor, Coach, Speaker and Technology Advisor.
+I am an Architect, Mentor, Coach, Speaker and Advisor.
 
-Cloud, DevOps, Security, Data Engineering & AI.
+I work in Cloud, DevOps, Security, Data & AI.
