@@ -7,6 +7,8 @@ weight: 1
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
 
+* Jan/2020 **"(workshop) The Hitchhiker's Guide to AI & ML in AWS"** @ <a href="https://awscommunitynordics.org/communityday/" target="_blank">AWS Community Day Nordics 2020</a> (Stockholm, Sweden 🇸🇪)
+
 * October/2019 **"What can Serverless AI/ML APIs tell us about Fake and Credible News?"** @ <a href="https://stockholm.serverlessdays.io" target="_blank">ServerlessDays Stockholm 2019</a> (Stockholm, Sweden 🇸🇪)
 * October/2019 **"What can AWS tell us about fake and credible news media websites?"** @ <a href="https://comsum.co.uk/" target="_blank">AWS Community Day Germany 2019</a> (London, UK 🇬🇧)
 * September/2019 **"How can you sell Security as a business priority?"** @ <a href="https://www.meetup.com/Sales-Engineering-Finland/events/262574457/" target="_blank">Sales Engineering Finland Meetup 2019</a> (Helsinki, Finland 🇫🇮)
