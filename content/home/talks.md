@@ -7,6 +7,8 @@ weight: 1
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
 
+* Mar/2020 **"5 Practical Steps to Build an IoT Data Pipeline in Azure"** @ <a href="https://techdaysfi.com/events/what-does-it-mean-to-do-iot-today-in-azure/" target="_blank">Microsoft TechDays Finland 2020</a> (Helsinki, Finland 🇫🇮)
+
 * Jan/2020 **"(workshop) The Hitchhiker's Guide to AI & ML in AWS"** @ <a href="https://awscommunitynordics.org/communityday/" target="_blank">AWS Community Day Nordics 2020</a> (Stockholm, Sweden 🇸🇪)
 
 * October/2019 **"What can Serverless AI/ML APIs tell us about Fake and Credible News?"** @ <a href="https://stockholm.serverlessdays.io" target="_blank">ServerlessDays Stockholm 2019</a> (Stockholm, Sweden 🇸🇪)
@@ -27,4 +29,4 @@ weight: 1
 * March/2013 **"Improving test-automation with the Cloud"** @ <a href="https://kajakdc.fi/en/2013/02/25/the-future-in-the-cloud-a-finnish-edge-seminaari-25-3-2013-kaukametsa/" target="_blank">The Future in The Cloud - Cloud Software Finland</a> ( Kajaani, Finland 🇫🇮)
 
 <br />
-👉 Full details available at <a href="https://speaking.brunoamaro.com" target="_blank">speaking.brunoamaro.com</a>
+<h3> 👉 Slides and Videos available at <a href="https://speaking.brunoamaro.com" target="_blank">speaking.brunoamaro.com</a> </h3>
