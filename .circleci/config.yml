@@ -9,7 +9,7 @@ jobs:
     steps:
 
       # install git
-      - run: apt update && apt install git nodejs npm -qy
+      - run: sudo apt update && sudo apt install git nodejs npm -qy
 
       # checkout the repository
       - checkout
