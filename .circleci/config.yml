@@ -23,8 +23,8 @@ jobs:
             fi
 
    # Install contentful
-      - run: npm install contentful-hugo
-      - run: npm i -g npx
+      - run: sudo npm install contentful-hugo
+      - run: sudo npm i -g npx
 
    # Pull contentful content
       - run: npx contentful-hugo
