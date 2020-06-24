@@ -14,13 +14,13 @@ jobs:
       # checkout the repository
       - checkout
 
-      - run:
-          name: Checkout Submodules if Needed
-          command: |
-            if [ -f ".gitmodules" ]; then
-              git submodule sync
-              git submodule update --force --recursive --init --remote
-            fi
+     # - run:
+     #     name: Checkout Submodules if Needed
+     #     command: |
+     #       if [ -f ".gitmodules" ]; then
+     #         git submodule sync
+     #         git submodule update --force --recursive --init --remote
+     #       fi
 
    # build with Hugo
       - run: hugo version
