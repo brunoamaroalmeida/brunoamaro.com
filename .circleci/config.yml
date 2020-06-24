@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cibuilds/hugo:latest
+      - image: cibuilds/hugo:0.72
     working_directory: ~/hugo
     environment:
       HUGO_BUILD_DIR: ~/hugo/public
@@ -14,13 +14,13 @@ jobs:
       # checkout the repository
       - checkout
 
-     # - run:
-     #     name: Checkout Submodules if Needed
-     #     command: |
-     #       if [ -f ".gitmodules" ]; then
-     #         git submodule sync
-     #         git submodule update --force --recursive --init --remote
-     #       fi
+      - run:
+          name: Checkout Submodules if Needed
+          command: |
+            if [ -f ".gitmodules" ]; then
+              git submodule sync
+              git submodule update --force --recursive --init --remote
+            fi
 
    # build with Hugo
       - run: hugo version
