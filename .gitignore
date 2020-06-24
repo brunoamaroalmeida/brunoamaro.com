@@ -1,3 +1,6 @@
 node_modules
+public
+resources/_gen
 package-lock.json
 development.sh
+brunoamaro.code-workspace

@@ -22,13 +22,6 @@ jobs:
               git submodule update --force --recursive --init --remote
             fi
 
-   # Install contentful
-      - run: sudo npm install contentful-hugo
-      - run: sudo npm i -g npx
-
-   # Pull contentful content
-      - run: npx contentful-hugo
-
    # build with Hugo
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
 

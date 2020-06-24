@@ -7,6 +7,15 @@ weight: 1
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
 
+* June/2020 **"From DevOps to DevSecOps: How Establishing a Threat Modeling Process Can Help You Transition"** @ <a href="https://ndcoslo.com/talk/using-security-threat-modelling-to-enable-a-devsecops-culture/" target="_blank">NDC Oslo Online</a> (Oslo, Norway 🇳🇴)
+
+
+* June/2020 **"An Essential Guide to Leverage Cloud, DevOps & Data for Business"** @ <a href="https://futurice.zoom.us/webinar/register/rec/WN_-g06VorIT32jpuvdH6QxaQ?meetingId=6pNNbIj2r2JOXJHW0UXxC4QOGN7lX6a81yYZ_fQPmBr8lPHY5Hf4ZDyXSlzct8c-&playId=&action=play&_x_zm_rtaid=kbePJPkdQmGvtOm18M64NQ.1592998074290.09b920f8a1e367c9a2b8e5644cb3bfb1&_x_zm_rhtaid=873" target="_blank">Futurice Webinar</a> (Helsinki, Finland 🇫🇮)
+
+* May/2019 **"30-Minutes to Kickstart your AWS AI & ML Knowledge"** @ <a href="https://comsum.co.uk/" target="_blank">AWS Community Summit Online</a> (London, UK 🇬🇧)
+
+* Mar/2020 **"How establishing a Threat Modelling process can help you transition from DevOps to DevSecOps"** @ <a href="https://myework.eworkgroup.com/event/?id=4932" target="_blank">DevSecOps Afterwork by eWorks</a> (Helsinki, Finland 🇫🇮)
+
 * Mar/2020 **"5 Practical Steps to Build an IoT Data Pipeline in Azure"** @ <a href="https://techdaysfi.com/events/what-does-it-mean-to-do-iot-today-in-azure/" target="_blank">Microsoft TechDays Finland 2020</a> (Helsinki, Finland 🇫🇮)
 
 * Jan/2020 **"(workshop) The Hitchhiker's Guide to AI & ML in AWS"** @ <a href="https://awscommunitynordics.org/communityday/" target="_blank">AWS Community Day Nordics 2020</a> (Stockholm, Sweden 🇸🇪)
