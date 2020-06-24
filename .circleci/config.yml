@@ -23,7 +23,7 @@ jobs:
             fi
 
    # build with Hugo
-      - run: npm update
+      - run: hugo version
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
 
       - run:
