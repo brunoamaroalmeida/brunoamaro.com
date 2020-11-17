@@ -24,6 +24,9 @@ jobs:
 
    # build with Hugo
       - run: hugo version
+      - run: sudo npm cache clean -f 
+      - run: sudo npm install -g n
+      - run: sudo n stable
       - run: npm install postcss postcss-cli autoprefixer
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
 
