@@ -30,12 +30,7 @@ jobs:
       - run: npm install postcss postcss-cli autoprefixer
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
 
-      - run:
-          name: test our generated HTML files
-          command: |
-            htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
-            --empty-alt-ignore --disable-external
-
+      
       - deploy:
           name: Deploy
           command: cd $HUGO_BUILD_DIR && find . -type f -exec curl -u ${username}:${password} ${ssl} --ssl-reqd --ftp-create-dirs -T {} ftp://${host}/{} \;
