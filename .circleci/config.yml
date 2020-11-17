@@ -24,6 +24,7 @@ jobs:
 
    # build with Hugo
       - run: hugo version
+      - run: npm install postcss postcss-cli autoprefixer
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
 
       - run:
