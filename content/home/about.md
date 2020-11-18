@@ -10,6 +10,8 @@ I am a Principal Architect & Technology Advisor at [Futurice](https://www.futuri
 
 Based in Helsinki, I work in areas such as *Cloud*, *DevOps*, *Security*, *IoT*, *Data Engineering* & *AI*.
 
+I am an AWS Partner Ambassador - a selected AWS global group of ~200 AWS experts - since 2020. While I value real-world experience over industry certifications, I am certified in the three major public cloud providers ( 12 x Amazon Web Services , 2 x Microsoft Azure and 1 x Google Cloud ).
+
 Throughout me career I worked in a wide range of positions from senior management to deep technical roles.
 
 I am passionate about *culture* and *digital transformation* and have been involved in several projects from both the human (**Leadership**, **Coaching**, **Mentoring**) and technical (**Cloud**, **Security**, **DevOps**, **AI**) perspective.
