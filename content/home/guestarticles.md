@@ -9,6 +9,8 @@ weight: 3
 .markdown p { font-size: 1.1rem !important; }
 </style>
 
+<a href="https://blog.thundra.io/container-workloads-on-aws-azure-and-google-cloud-platforms" target="_blank">Container Workloads on AWS, Azure, and Google Cloud Platforms</a><small> **( Thundra )** </small> 
+
 <a href="https://iamondemand.com/blog/how-to-get-the-most-out-of-the-aws-cost-management-tools/" target="_blank">How to Get the Most From AWS Cost Management Tools</a><small> **( IOD )** </small> 
 
 <a href="https://cloud.netapp.com/blog/gcp-cvo-blg-google-cloud-bigquery-how-to-use-google-cloud-bigquery" target="_blank">How and When to Use Google Cloud BigQuery to Store Your Data</a><small> **( NetApp )** </small> 
