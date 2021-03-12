@@ -4,3 +4,4 @@ resources/_gen
 package-lock.json
 development.sh
 brunoamaro.code-workspace
+.Ds_Store
