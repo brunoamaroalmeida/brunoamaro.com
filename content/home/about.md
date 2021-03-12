@@ -7,7 +7,7 @@ image: "portrait.jpg"
 weight: 0
 ---
 
-I work as Head of Technology & Architecture at Fortum [Fortum](https://www.fortum.com) and regularly advise and help  organisations with technology and digital transformation.
+I work as Head of Technology & Architecture at [Fortum](https://www.fortum.com) and regularly advise and help organisations with technology and digital transformation.
 
 Based in Helsinki, I work in areas such as *Cloud*, *DevOps*, *Security*, *IoT*, *Data Engineering* & *AI*.
 
