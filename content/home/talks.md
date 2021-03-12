@@ -6,6 +6,11 @@ weight: 1
 <style type = "text/css">
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
+
+* March/2021 **"7 AWS Deadly Sins "** @ <a href="https://speaking.brunoamaro.com/0RW3xc/7-aws-deadly-sins" target="_blank">AWS Community Summit Online</a> (Manchester, UK 🇬🇧)
+
+* December/2020 **"Discovering Site Reliability Engineering "** @ <a href="https://speaking.brunoamaro.com/Lwa4Q0/discovering-site-reliability-engineering" target="_blank">Telia SRE Webinar</a> (Helsinki, Finland 🇫🇮)
+
 * December/2020 **"Expert panel and light talks related to AWS Re:Invent 2020 announcements "** @ <a href="https://comsum.co.uk/" target="_blank">AWS Community Summit Online</a> (Manchester, UK 🇬🇧)
 
 * November/2020 **"20-Minutes to Kickstart your AWS AI & ML Knowledge"** @ <a href="https://datanatives.io/conference/" target="_blank">Data Natives Unlimited 2020 Online</a> (Berlin, Germany 🇩🇪)
@@ -14,7 +19,7 @@ weight: 1
 
 * June/2020 **"An Essential Guide to Leverage Cloud, DevOps & Data for Business"** @ <a href="https://futurice.zoom.us/webinar/register/rec/WN_-g06VorIT32jpuvdH6QxaQ?meetingId=6pNNbIj2r2JOXJHW0UXxC4QOGN7lX6a81yYZ_fQPmBr8lPHY5Hf4ZDyXSlzct8c-&playId=&action=play&_x_zm_rtaid=kbePJPkdQmGvtOm18M64NQ.1592998074290.09b920f8a1e367c9a2b8e5644cb3bfb1&_x_zm_rhtaid=873" target="_blank">Futurice Webinar</a> (Helsinki, Finland 🇫🇮)
 
-* May/2019 **"30-Minutes to Kickstart your AWS AI & ML Knowledge"** @ <a href="https://comsum.co.uk/" target="_blank">AWS Community Summit Online</a> (London, UK 🇬🇧)
+* May/2020 **"30-Minutes to Kickstart your AWS AI & ML Knowledge"** @ <a href="https://comsum.co.uk/" target="_blank">AWS Community Summit Online</a> (London, UK 🇬🇧)
 
 * Mar/2020 **"How establishing a Threat Modelling process can help you transition from DevOps to DevSecOps"** @ <a href="https://myework.eworkgroup.com/event/?id=4932" target="_blank">DevSecOps Afterwork by eWorks</a> (Helsinki, Finland 🇫🇮)
 
