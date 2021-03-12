@@ -6,9 +6,11 @@ weight: 1
 <style type = "text/css">
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
+* December/2020 **"Expert panel and light talks related to AWS Re:Invent 2020 announcements "** @ <a href="https://comsum.co.uk/" target="_blank">AWS Community Summit Online</a> (Manchester, UK 🇬🇧)
+
+* November/2020 **"20-Minutes to Kickstart your AWS AI & ML Knowledge"** @ <a href="https://datanatives.io/conference/" target="_blank">Data Natives Unlimited 2020 Online</a> (Berlin, Germany 🇩🇪)
 
 * June/2020 **"From DevOps to DevSecOps: How Establishing a Threat Modeling Process Can Help You Transition"** @ <a href="https://ndcoslo.com/talk/using-security-threat-modelling-to-enable-a-devsecops-culture/" target="_blank">NDC Oslo Online</a> (Oslo, Norway 🇳🇴)
-
 
 * June/2020 **"An Essential Guide to Leverage Cloud, DevOps & Data for Business"** @ <a href="https://futurice.zoom.us/webinar/register/rec/WN_-g06VorIT32jpuvdH6QxaQ?meetingId=6pNNbIj2r2JOXJHW0UXxC4QOGN7lX6a81yYZ_fQPmBr8lPHY5Hf4ZDyXSlzct8c-&playId=&action=play&_x_zm_rtaid=kbePJPkdQmGvtOm18M64NQ.1592998074290.09b920f8a1e367c9a2b8e5644cb3bfb1&_x_zm_rhtaid=873" target="_blank">Futurice Webinar</a> (Helsinki, Finland 🇫🇮)
 

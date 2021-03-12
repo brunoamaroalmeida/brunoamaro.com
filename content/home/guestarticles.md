@@ -9,6 +9,22 @@ weight: 3
 .markdown h4 { font-size: 1.1rem !important; }
 </style>
 
+<a href="https://blog.thundra.io/container-workloads-on-aws-azure-and-google-cloud-platforms" target="_blank">Container Workloads on AWS, Azure, and Google Cloud Platforms</a><small> **( Thundra )** </small> 
+
+<a href="https://iamondemand.com/blog/how-to-get-the-most-out-of-the-aws-cost-management-tools/" target="_blank">How to Get the Most From AWS Cost Management Tools</a><small> **( IOD )** </small> 
+
+<a href="https://cloud.netapp.com/blog/gcp-cvo-blg-google-cloud-bigquery-how-to-use-google-cloud-bigquery" target="_blank">How and When to Use Google Cloud BigQuery to Store Your Data</a><small> **( NetApp )** </small> 
+
+<a href="https://cloud.netapp.com/blog/cvo-blg-monolith-vs.-microservices-how-do-you-run-your-applications" target="_blank">Monolith vs. Microservices: How Are You Running Your Applications?</a><small> **( NetApp )** </small> 
+
+<a href="https://www.insightsforprofessionals.com/it/leadership/how-businesses-can-thrive-be-ahead-post-covid" target="_blank">Digital Transformation: How Businesses Can Thrive and be Ahead in the Post-COVID Age </a><small> **( Insights For Professionals )** </small> 
+
+<a href="https://cloud.netapp.com/blog/cvo-blg-cloud-bursting-with-cloud-volumes-ontap" target="_blank">Cloud Bursting with Cloud Volumes ONTAP</a><small> **( NetApp )** </small> 
+
+<a href="https://cloud.netapp.com/blog/gcp-cvo-blg-sql-server-on-google-cloud-two-deployment-options" target="_blank">SQL Server on Google Cloud: Managed Service Vs. Managed Storage</a><small> **( NetApp )** </small> 
+
+<a href="https://cloud.netapp.com/blog/gcp-cvo-blg-gcp-migration-with-cloud-volumes-ontap" target="_blank">Google Cloud Migration with Cloud Volumes ONTAP</a><small> **( NetApp )** </small> 
+
 <a href="https://cloud.netapp.com/blog/gcp-cvo-blg-provisioned-iops-for-google-cloud-persistent-disk" target="_blank">Provisioned IOPS for Google Cloud Persistent Disk</a><small> **( NetApp )** </small> 
 
 <a href="https://logz.io/blog/learn-siem-tools-pitfalls/" target="_blank">How to Overcome the Drawbacks of SIEM Tools</a><small> **( Logz.io )** </small> 
