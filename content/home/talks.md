@@ -6,6 +6,9 @@ weight: 1
 <style type = "text/css">
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
+* April/2021 **"Why Cloud is the key to Digital Transformation? "** @ <a href="https://speaking.brunoamaro.com/yEYtMO/why-cloud-is-the-key-to-digital-transformation" target="_blank">Vodacom Tech Talks</a> (Maputo, Mozambique 🇲🇿)
+
+* April/2021 **"AWS Cloud Migration Panel Discussion "** @ <a href="https://www.youtube.com/watch?v=F-iEGGJPAcc" target="_blank">AWS Community Summit Online</a> (Manchester, UK 🇬🇧)
 
 * March/2021 **"7 AWS Deadly Sins "** @ <a href="https://speaking.brunoamaro.com/0RW3xc/7-aws-deadly-sins" target="_blank">AWS Community Summit Online</a> (Manchester, UK 🇬🇧)
 
