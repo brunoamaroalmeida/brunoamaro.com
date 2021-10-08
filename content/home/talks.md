@@ -6,6 +6,10 @@ weight: 1
 <style type = "text/css">
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
+* October/2021 **"Where Organisations Fail? Mistakes & Misconceptions about Hybrid & Multi-cloud"** @ <a href="https://speaking.brunoamaro.com/vl6qvF/where-organisations-fail-mistakes-misconceptions-about-hybrid-multi-cloud" target="_blank">Sofa Summits: Hybrid and Multi Cloud</a> (London, UK 🇬🇧)
+
+* September/2021 **"Cyber Resilience"** @ <a href="https://infoteaminternational.co.uk/smart-webinars/cio-ciso-nordics-online-smart-webinar/" target="_blank">CIO & CISO Nordics Online Smart Webinar</a>  (Helsinki, Finland 🇫🇮)
+
 * April/2021 **"Why Cloud is the key to Digital Transformation? "** @ <a href="https://speaking.brunoamaro.com/yEYtMO/why-cloud-is-the-key-to-digital-transformation" target="_blank">Vodacom Tech Talks</a> (Maputo, Mozambique 🇲🇿)
 
 * April/2021 **"AWS Cloud Migration Panel Discussion "** @ <a href="https://www.youtube.com/watch?v=F-iEGGJPAcc" target="_blank">AWS Community Summit Online</a> (Manchester, UK 🇬🇧)
