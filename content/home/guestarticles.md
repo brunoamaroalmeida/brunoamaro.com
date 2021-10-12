@@ -98,6 +98,8 @@ weight: 3
 
 <a href="https://cloud.netapp.com/blog/google-cloud-persistent-disk-virtual-image-creation-gc-cvo-blg" target="_blank">Google Cloud Persistent Disk: How to Create a Google Cloud Virtual Image</a><small> **( NetApp )** </small> 
 
+<a href="https://cloud.netapp.com/blog/gcp-cvo-blg-dr-in-google-cloud-with-netapp-cloud-volumes-ontap" target="_blank">Google Cloud Disaster Recovery Deployment with NetApp Cloud Volumes ONTAP</a><small> **( NetApp )** </small> 
+
 <a href="https://cloud.netapp.com/blog/hybrid-deployment-with-google-anthos-an-intro-gc-cvo-blg" target="_blank">Hybrid Deployment on Google Cloud: Meet Google Anthos</a><small> **( NetApp )** </small> 
 
 <a href="https://cloud.netapp.com/blog/google-cloud-website-hosting-on-google-cloud-storage-gcp-cvo-blg" target="_blank">Google Cloud Website Hosting with Google Cloud Storage</a><small> **( NetApp )** </small> 
