@@ -11,7 +11,7 @@ I work as Head of Technology & Architecture at [Fortum](https://www.fortum.com) 
 
 Based in Helsinki, I work in areas such as *Cloud*, *DevOps*, *Security*, *IoT*, *Data Engineering* & *AI*.
 
-Throughout me career I worked in a wide range of positions from senior management to deep technical roles.
+Throughout my career I worked in a wide range of positions from senior management to deep technical roles.
 
 I am passionate about *culture* and *digital transformation* and have been involved in several projects from both the human (**Leadership**, **Coaching**, **Mentoring**) and technical (**Cloud**, **Security**, **DevOps**, **AI**) perspective.
 
