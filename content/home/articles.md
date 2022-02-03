@@ -3,10 +3,6 @@ title: "Articles"
 weight: 2
 ---
 
-<style type = "text/css">
-.markdown h4 { font-size: 1.1rem !important; }
-</style>
-
 <a href="https://medium.com/@brunoamaroalmeida/how-to-use-the-aito-engine-to-predict-animals-6853672eac7e" target="_blank">How to Use the Aito Engine to Predict Animals</a>
 
 <a href="https://medium.com/@brunoamaroalmeida/rogueone-creating-a-rogue-wi-fi-access-point-using-a-raspberry-pi-79e1b7e628c6?source=rss-59b4085f23ff------2\" target="_blank">RogueOne: Creating a Rogue Wi-Fi Access Point using a Raspberry Pi</a>

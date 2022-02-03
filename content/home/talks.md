@@ -6,6 +6,7 @@ weight: 1
 <style type = "text/css">
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
+
 * October/2021 **"Where Organisations Fail? Mistakes & Misconceptions about Hybrid & Multi-cloud"** @ <a href="https://speaking.brunoamaro.com/vl6qvF/where-organisations-fail-mistakes-misconceptions-about-hybrid-multi-cloud" target="_blank">Sofa Summits: Hybrid and Multi Cloud</a> (London, UK 🇬🇧)
 
 * September/2021 **"Cyber Resilience"** @ <a href="https://infoteaminternational.co.uk/smart-webinars/cio-ciso-nordics-online-smart-webinar/" target="_blank">CIO & CISO Nordics Online Smart Webinar</a>  (Helsinki, Finland 🇫🇮)

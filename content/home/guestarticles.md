@@ -5,9 +5,14 @@ date: "2019-11-08T21:00:59.841Z"
 title: "Guest Articles"
 weight: 3
 ---
-<style type = "text/css">
-.markdown h4 { font-size: 1.1rem !important; }
-</style>
+
+<a href="https://cloud.netapp.com/blog/cvo-blg-sre-benefits-and-business-impact-of-the-sre-mindset" target="_blank">Benefits and Business Impact of the SRE Mindset</a><small> **( NetApp )** </small> 
+
+<a href="https://granulate.io/granulate-aws-graviton-computing-optimization/" target="_blank">Granulate and Graviton, a One-Two Punch of Computing Optimization for AWS Workloads</a><small> **( Granulate )** </small> 
+
+<a href="https://iamondemand.com/blog/aws-reinvent-2021-iod-cloud-experts-wishlist/" target="_blank">AWS re:Invent 2021: IOD Cloud Experts Wishlist</a><small> **( IOD )** </small> 
+
+<a href="https://medium.com/fortum-tech/aws-re-invent-2021-what-to-expect-predictions-from-the-fortum-tech-community-e95763c64d52" target="_blank">AWS re:Invent 2021: What to Expect? Predictions from the Fortum Tech Community</a><small> **( Fortum )** </small> 
 
 <a href="https://cloud.netapp.com/blog/aws-fsxo-blg-protect-your-data-with-amazon-fsx-for-netapp-ontap" target="_blank">Protect Your Data with Amazon FSx for NetApp ONTAP</a><small> **( NetApp )** </small> 
 
