@@ -7,6 +7,23 @@ weight: 1
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
 
+
+* September/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="xx" target="_blank">DevOpsDays Portugal</a> (Porto, Portugal )
+
+* September/2022 **"The Ugly Truth About Your DevSecOps Guidelines and Security Policies"** @ <a href="https://speaking.brunoamaro.com/9Ip0OM/the-ugly-truth-about-your-devsecops-guidelines-and-security-policies" target="_blank">IDC Security Finland</a> (Helsinki, Finland  🇫🇮)
+
+* September/2022 **"Panelist: Enterprise Architecture and Business Strategy - Why the two should come hand in hand to drive innovation and high performance"** @ <a href="https://www.switchonconf.com/exchange-europe" target="_blank">SwithON Conf - Exchange Europe</a> (Online)
+
+* June/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="https://www.wearedevelopers.com/world-congress#/" target="_blank">We Are Developers World Congress</a> (Berlin, Germany 🇩🇪)
+
+* September/2022 **"Where Are We Heading? A Brief DevOps Story (Keynote)"** @ <a href="https://speaking.brunoamaro.com/o5zqhu/where-are-we-heading-a-brief-devops-story" target="_blank">IDC DevOps Nordics</a> (Online)
+
+* April/2022 **"7 AWS Deadly Sins"** @ <a href="https://www.meetup.com/berlinawsug/events/284632298/" target="_blank">AWS User Group Berlin</a> (Online)
+
+* March/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="https://speaking.brunoamaro.com/TJrjZI/we-adopted-devops-and-are-cloud-native-now-what" target="_blank">The DEVOPS Conference 2022</a> (Online)
+
+* February/2022 **"Panelist: Governance Within a Multi & Hybrid Cloud System"** @ <a href="https://deskflix.computing.co.uk/ctgdeskflix/en/page/cloud" target="_blank">Hybrid & Multi Cloud Festival</a> (Online)
+
 * October/2021 **"Where Organisations Fail? Mistakes & Misconceptions about Hybrid & Multi-cloud"** @ <a href="https://speaking.brunoamaro.com/vl6qvF/where-organisations-fail-mistakes-misconceptions-about-hybrid-multi-cloud" target="_blank">Sofa Summits: Hybrid and Multi Cloud</a> (London, UK 🇬🇧)
 
 * September/2021 **"Cyber Resilience"** @ <a href="https://infoteaminternational.co.uk/smart-webinars/cio-ciso-nordics-online-smart-webinar/" target="_blank">CIO & CISO Nordics Online Smart Webinar</a>  (Helsinki, Finland 🇫🇮)

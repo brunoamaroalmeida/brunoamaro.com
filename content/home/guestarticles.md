@@ -6,6 +6,23 @@ title: "Guest Articles"
 weight: 3
 ---
 
+<a href="https://cloud.netapp.com/blog/cvo-blg-hybrid-cloud-strategy-a-winning-model-for-enterprises" target="_blank">Hybrid Cloud Strategy: A Winning Model for Enterprises?</a><small> **( NetApp )** </small> 
+
+
+<a href="https://iamondemand.com/blog/should-developers-have-access-to-production/" target="_blank">Should devs have access to production?</a><small> **( IOD )** </small> 
+
+
+<a href="https://cloud.netapp.com/blog/cbs-blg-is-your-backup-system-reliable" target="_blank">Is Your Backup System Reliable?</a><small> **( NetApp )** </small> 
+
+
+<a href="https://iamondemand.com/blog/a-guide-for-enterprises-migrating-to-the-aws-cloud-part-1/" target="_blank">A Guide For Enterprises Migrating to AWS - Part I</a><small> **( IOD )** </small> 
+
+<a href="https://iamondemand.com/blog/a-guide-for-enterprises-migrating-to-the-aws-cloud-part/" target="_blank">A Guide For Enterprises Migrating to AWS - Part II</a><small> **( IOD )** </small> 
+
+
+<a href="https://cloud.netapp.com/blog/rps-blg-data-security-capabilities-every-it-leader-needs-to-know" target="_blank">Top 3 Data Security Capabilities Every IT Leader Needs</a><small> **( NetApp )** </small> 
+
+
 <a href="https://cloud.netapp.com/blog/cvo-blg-sre-benefits-and-business-impact-of-the-sre-mindset" target="_blank">Benefits and Business Impact of the SRE Mindset</a><small> **( NetApp )** </small> 
 
 <a href="https://granulate.io/granulate-aws-graviton-computing-optimization/" target="_blank">Granulate and Graviton, a One-Two Punch of Computing Optimization for AWS Workloads</a><small> **( Granulate )** </small> 
