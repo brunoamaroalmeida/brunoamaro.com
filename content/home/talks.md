@@ -20,6 +20,8 @@ weight: 1
 
 * April/2022 **"7 AWS Deadly Sins"** @ <a href="https://www.meetup.com/berlinawsug/events/284632298/" target="_blank">AWS User Group Berlin</a> (Online)
 
+{{< details "See more" >}}
+
 * March/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="https://speaking.brunoamaro.com/TJrjZI/we-adopted-devops-and-are-cloud-native-now-what" target="_blank">The DEVOPS Conference 2022</a> (Online)
 
 * February/2022 **"Panelist: Governance Within a Multi & Hybrid Cloud System"** @ <a href="https://deskflix.computing.co.uk/ctgdeskflix/en/page/cloud" target="_blank">Hybrid & Multi Cloud Festival</a> (Online)
@@ -69,5 +71,9 @@ weight: 1
 * June/2013 **"Creating a Cloud Infrastructure with OpenStack"**  @ <a href="https://www.meetup.com/devops-finland/events/121968472/" target="_blank">DevOps Finland Meetup</a> (Helsinki, Finland 🇫🇮)
 * March/2013 **"Improving test-automation with the Cloud"** @ <a href="https://kajakdc.fi/en/2013/02/25/the-future-in-the-cloud-a-finnish-edge-seminaari-25-3-2013-kaukametsa/" target="_blank">The Future in The Cloud - Cloud Software Finland</a> ( Kajaani, Finland 🇫🇮)
 
+{{< /details >}}
+
 <br />
-<h3> 👉 Slides and Videos available at <a href="https://speaking.brunoamaro.com" target="_blank">speaking.brunoamaro.com</a> </h3>
+👉 Slides and Videos available at <a href="https://speaking.brunoamaro.com" target="_blank">speaking.brunoamaro.com</a>
+
+

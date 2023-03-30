@@ -14,6 +14,7 @@ weight: 3
 
 <a href="https://cloud.netapp.com/blog/cbs-blg-is-your-backup-system-reliable" target="_blank">Is Your Backup System Reliable?</a><small> **( NetApp )** </small> 
 
+{{< details "See more" >}}
 
 <a href="https://iamondemand.com/blog/a-guide-for-enterprises-migrating-to-the-aws-cloud-part-1/" target="_blank">A Guide For Enterprises Migrating to AWS - Part I</a><small> **( IOD )** </small> 
 
@@ -160,3 +161,5 @@ weight: 3
 <a href="https://logz.io/blog/public-cloud-security-services-101/" target="_blank">Public Cloud Security Services 101</a><small> **( Logz.io )** </small>
 
 <a href="https://cloud.netapp.com/blog/object-storage-block-and-shared-file-storage-in-google-cloud" target="_blank">Storage Options in Google Cloud: Block, Network File, and Object Storage</a><small> **( NetApp )** </small>
+
+{{< /details >}}
