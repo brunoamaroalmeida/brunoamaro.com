@@ -8,7 +8,7 @@ weight: 1
 </style>
 
 
-* September/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="xx" target="_blank">DevOpsDays Portugal</a> (Porto, Portugal 🇵🇹)
+* September/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="https://speaking.brunoamaro.com/OFaDF3/we-adopted-devops-and-are-cloud-native-now-what"target="_blank">DevOpsDays Portugal</a> (Porto, Portugal 🇵🇹)
 
 * September/2022 **"The Ugly Truth About Your DevSecOps Guidelines and Security Policies"** @ <a href="https://speaking.brunoamaro.com/9Ip0OM/the-ugly-truth-about-your-devsecops-guidelines-and-security-policies" target="_blank">IDC Security Finland</a> (Helsinki, Finland  🇫🇮)
 

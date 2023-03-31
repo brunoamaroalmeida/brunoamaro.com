@@ -3,6 +3,8 @@ title: "Articles"
 weight: 2
 ---
 
+<a href="https://medium.com/@brunoamaroalmeida/3-aws-certifications-that-shaped-my-career-9924ed6d55cb?sk=d9bd083e0c8487a033340e58d65fba5a" target="_blank">3 AWS Certifications That Shaped My Career</a>
+
 <a href="https://medium.com/@brunoamaroalmeida/how-to-use-the-aito-engine-to-predict-animals-6853672eac7e" target="_blank">How to Use the Aito Engine to Predict Animals</a>
 
 <a href="https://medium.com/@brunoamaroalmeida/rogueone-creating-a-rogue-wi-fi-access-point-using-a-raspberry-pi-79e1b7e628c6?source=rss-59b4085f23ff------2\" target="_blank">RogueOne: Creating a Rogue Wi-Fi Access Point using a Raspberry Pi</a>
