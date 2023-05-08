@@ -8,7 +8,27 @@ weight: 1
 </style>
 
 
-* September/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="https://speaking.brunoamaro.com/OFaDF3/we-adopted-devops-and-are-cloud-native-now-what"target="_blank">DevOpsDays Portugal</a> (Porto, Portugal 🇵🇹)
+* May/2023 **Engineering Culture: An Essential Guide to Leverage Cloud, DevOps & Data for Business** @ <a href="https://www.devopsagileskills.org/dasa-connect-2023/" target="_blank">DASA Connect 2023</a>  (Online) 
+
+* May/2023 **150 Days of FinOps** @ <a href="https://www.linkedin.com/events/stockholmfinopsroadshow7054023249399029760/comments/" target="_blank">FinOps Roadshow Stockholm</a> (Stockholm, Sweden 🇸🇪)
+
+* May/2023 **Leveraging Slack for Colaboration, Technology Governance and Accelerating Digital Development** @ <a href="https://invite.salesforce.com/worldtouressentialshelsinki" target="_blank">Salesforce World Tour Essentials</a> (Helsinki, Finland  🇫🇮)  
+
+* April/2023 **Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration at Scale** @ <a href="https://speaking.brunoamaro.com/kkUUZ1/rethinking-aws-cloudops-and-platform-engineering-for-digital-acceleration-at-scale" target="_blank">AWS Community Day Nordics 2023</a> (Helsinki, Finland  🇫🇮) 
+
+* April/2023 **7 AWS Deadly Sins** @ <a href="https://www.meetup.com/aws-user-group-lisbon/events/292699451/" target="_blank">AWS User Group Lisbon</a> (Lisbon, Portugal 🇵🇹) 
+
+{{< details "See more" >}}
+
+* March/2023 **Rethinking AWS and Azure CloudOps for Digital Acceleration at Scale** @ <a href="https://speaking.brunoamaro.com/wcuRio/rethinking-aws-and-azure-cloudops-for-digital-acceleration-at-scale" target="_blank">CodeFrenzy</a> (Online) 
+
+* March/2023 **Implementing a DevOps Cloud Strategy for Enterprises** @ <a href="https://www.linkedin.com/events/implementingadevopscloudstrateg7028993152854159360/comments/" target="_blank">DASA - Webinar</a> (Online)
+
+* November/2022 **Rethinking AWS and Azure CloudOps for Digital Acceleration at Scale"** @ <a href="https://www.idc.com/eu/events/70139-idc-future-of-infrastructure-2022" target="_blank">IDC - Future of Infrastructure</a> (Helsinki, Finland  🇫🇮) 
+
+* November/2022 **How Fortum Develops Enterprise and Startup Digital Solutions Leveraging Github Capabilities** @ <a href="https://speaking.brunoamaro.com/rRuiYg/how-fortum-develops-enterprise-and-startup-digital-solutions-leveraging-github-capabilities" target="_blank">Slush</a> (Helsinki, Finland  🇫🇮)
+
+* September/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="https://speaking.brunoamaro.com/OFaDF3/we-adopted-devops-and-are-cloud-native-now-what" target="_blank">DevOpsDays Portugal</a> (Porto, Portugal 🇵🇹)
 
 * September/2022 **"The Ugly Truth About Your DevSecOps Guidelines and Security Policies"** @ <a href="https://speaking.brunoamaro.com/9Ip0OM/the-ugly-truth-about-your-devsecops-guidelines-and-security-policies" target="_blank">IDC Security Finland</a> (Helsinki, Finland  🇫🇮)
 
@@ -19,8 +39,6 @@ weight: 1
 * September/2022 **"Where Are We Heading? A Brief DevOps Story (Keynote)"** @ <a href="https://speaking.brunoamaro.com/o5zqhu/where-are-we-heading-a-brief-devops-story" target="_blank">IDC DevOps Nordics</a> (Online)
 
 * April/2022 **"7 AWS Deadly Sins"** @ <a href="https://www.meetup.com/berlinawsug/events/284632298/" target="_blank">AWS User Group Berlin</a> (Online)
-
-{{< details "See more" >}}
 
 * March/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="https://speaking.brunoamaro.com/TJrjZI/we-adopted-devops-and-are-cloud-native-now-what" target="_blank">The DEVOPS Conference 2022</a> (Online)
 

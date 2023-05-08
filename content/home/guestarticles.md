@@ -6,15 +6,33 @@ title: "Guest Articles"
 weight: 3
 ---
 
-<a href="https://cloud.netapp.com/blog/cvo-blg-hybrid-cloud-strategy-a-winning-model-for-enterprises" target="_blank">Hybrid Cloud Strategy: A Winning Model for Enterprises?</a><small> **( NetApp )** </small> 
+<a href="https://medium.com/fortum-tech/step-by-step-guide-to-create-a-slack-app-for-incoming-webhooks-3d9b799e8ae1" target="_blank">Step by Step Guide to Create a Slack App for Incoming Webhooks</a><small> **( Fortum )** </small> 
 
+<a href="https://www.devopsagileskills.org/blog/engineering-culture-leveraging-cloud-devops-and-data-for-business-success/" target="_blank">Engineering Culture: Leveraging Cloud, DevOps, and Data for business success</a><small> **( DASA )** </small> 
+
+<a href="https://bluexp.netapp.com/blog/aws-cvo-blg-amazon-file-cache-service-how-it-works" target="_blank">Get to Know The Amazon File Cache Service</a><small> **( NetApp )** </small> 
+
+{{< details "See more" >}}
+
+<a href="https://www.devopsagileskills.org/blog/leveraging-devops-and-cloud-to-implement-a-technology-strategy-for-enterprises%ef%bc%8dkey-takeaways/" target="_blank">Leveraging DevOps and Cloud to implement a technology strategy for Enterprises</a><small> **( DASA )** </small> 
+
+<a href="https://bluexp.netapp.com/blog/cvo-blg-storage-it-admin-to-cloud-architect-career-success-stories" target="_blank">Storage IT Admin to Cloud Architect: Career Success Stories</a><small> **( NetApp )** </small> 
+
+<a href="https://bluexp.netapp.com/blog/high-availability-file-service-nightmares-and-how-to-avoid-them" target="_blank">Cloud File Share High Availability Nightmares (and How Cloud Volumes ONTAP Can Help)</a><small> **( NetApp )** </small> 
+
+<a href="https://bluexp.netapp.com/blog/cm-blg-aws-reinvent-2022-5-key-data-highlights" target="_blank">AWS re:Invent 2022: 5 Key Data Highlights</a><small> **( NetApp )** </small> 
+
+<a href="https://bluexp.netapp.com/blog/cm-blg-how-to-upskill-from-storage-administrator-to-cloud-expert" target="_blank">How to Upskill from Storage Administrator to Cloud Expert</a><small> **( NetApp )** </small> 
+
+<a href="https://bluexp.netapp.com/blog/aws-cvo-blg-lambda-ephemeral-storage-why-the-10-gb-increase-is-important" target="_blank">Lambda Ephemeral Storage: Why It Was Increased and Why That’s Important</a><small> **( NetApp )** </small> 
+
+<a href="https://bluexp.netapp.com/blog/cm-blg-modern-data-estate-what-it-leaders-need-to-know" target="_blank">Modern Data Estate: What IT Leaders Need To Know</a><small> **( NetApp )** </small> 
+
+<a href="https://cloud.netapp.com/blog/cvo-blg-hybrid-cloud-strategy-a-winning-model-for-enterprises" target="_blank">Hybrid Cloud Strategy: A Winning Model for Enterprises?</a><small> **( NetApp )** </small> 
 
 <a href="https://iamondemand.com/blog/should-developers-have-access-to-production/" target="_blank">Should devs have access to production?</a><small> **( IOD )** </small> 
 
-
 <a href="https://cloud.netapp.com/blog/cbs-blg-is-your-backup-system-reliable" target="_blank">Is Your Backup System Reliable?</a><small> **( NetApp )** </small> 
-
-{{< details "See more" >}}
 
 <a href="https://iamondemand.com/blog/a-guide-for-enterprises-migrating-to-the-aws-cloud-part-1/" target="_blank">A Guide For Enterprises Migrating to AWS - Part I</a><small> **( IOD )** </small> 
 
