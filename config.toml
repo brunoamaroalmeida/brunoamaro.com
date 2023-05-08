@@ -1,7 +1,7 @@
 baseURL = "https://www.brunoamaro.com/"
 languageCode = "en-us"
 title = "Bruno Amaro Almeida"
-theme = "introduction"
+theme = "introduction-bruno"
 googleAnalytics = "UA-149343088-1"
 
 [markup.goldmark.renderer]
