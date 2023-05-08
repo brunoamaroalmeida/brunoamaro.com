@@ -15,9 +15,6 @@ googleAnalytics = "UA-149343088-1"
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
 
-
-    [params.assets]
-        disableFingerprinting    = true
     # Configure the home page
     [params.home]
         introHeight              = "medium"                 # Input either "medium" or "large" or "fullheight"
@@ -28,6 +25,7 @@ googleAnalytics = "UA-149343088-1"
         localTime                = false                    # Show your current local time in contact section
         timeZone                 = "Europe/Helsinki"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "h:mm A"                # https://momentjs.com/docs/#/displaying/format/
+
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
 
