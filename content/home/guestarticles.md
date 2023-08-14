@@ -6,13 +6,20 @@ title: "Guest Articles"
 weight: 3
 ---
 
+
+<a href="https://bluexp.netapp.com/blog/cvo-blg-global-file-access-collaboration-meet-cloud-volumes-edge-cache" target="_blank">Global Access and File Collaboration: Meet NetApp Cloud Volumes Edge Cache</a><small> **( NetApp )** </small> 
+
+<a href="https://bluexp.netapp.com/blog/cvo-blg-optimize-your-google-cloud-disk-storage-costs" target="_blank">Optimize Your Google Cloud Disk Storage Costs</a><small> **( NetApp )** </small> 
+
+<a href="https://bluexp.netapp.com/blog/cvo-blg-the-future-of-file-collaboration" target="_blank">The Future of File Collaboration</a><small> **( NetApp )** </small> 
+
+{{< details "See more" >}}
+
 <a href="https://medium.com/fortum-tech/step-by-step-guide-to-create-a-slack-app-for-incoming-webhooks-3d9b799e8ae1" target="_blank">Step by Step Guide to Create a Slack App for Incoming Webhooks</a><small> **( Fortum )** </small> 
 
 <a href="https://www.devopsagileskills.org/blog/engineering-culture-leveraging-cloud-devops-and-data-for-business-success/" target="_blank">Engineering Culture: Leveraging Cloud, DevOps, and Data for business success</a><small> **( DASA )** </small> 
 
 <a href="https://bluexp.netapp.com/blog/aws-cvo-blg-amazon-file-cache-service-how-it-works" target="_blank">Get to Know The Amazon File Cache Service</a><small> **( NetApp )** </small> 
-
-{{< details "See more" >}}
 
 <a href="https://www.devopsagileskills.org/blog/leveraging-devops-and-cloud-to-implement-a-technology-strategy-for-enterprises%ef%bc%8dkey-takeaways/" target="_blank">Leveraging DevOps and Cloud to implement a technology strategy for Enterprises</a><small> **( DASA )** </small> 
 
