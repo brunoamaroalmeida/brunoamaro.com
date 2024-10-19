@@ -7,9 +7,9 @@ image: "portrait.jpg"
 weight: 0
 ---
 
-I work as Vice President of IT Operations at [Fortum](https://www.fortum.com) and regularly advise and help different organisations with technology and digital transformation topic.
+I work as Vice President of IT Operations at [Fortum](https://www.fortum.com) and regularly advise and help different organisations with technology and digital transformation topics.
 
-Based in Helsinki, I work in areas such as *Cloud*, *DevOps*, *Security*, *Data* & *AI*.
+Based in Helsinki, I work in areas such as *Cloud*, *DevOps*, *Platform Engineering*, *Cyber Security*, *Data* & *AI*.
 
 Throughout my career I worked in a wide range of positions from senior management to deep technical roles.
 
