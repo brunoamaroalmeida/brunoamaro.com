@@ -1,6 +1,6 @@
 ---
 title: "Articles"
-weight: 2
+weight: 3
 ---
 
 <a href="https://medium.com/@brunoamaroalmeida/3-aws-certifications-that-shaped-my-career-9924ed6d55cb?sk=d9bd083e0c8487a033340e58d65fba5a" target="_blank">3 AWS Certifications That Shaped My Career</a>
