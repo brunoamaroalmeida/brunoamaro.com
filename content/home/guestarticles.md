@@ -6,14 +6,15 @@ title: "Guest Articles"
 weight: 4
 ---
 
+<a href="https://community.netapp.com/t5/Tech-ONTAP-Blogs/Bridge-your-on-premises-data-center-and-AWS-with-Amazon-S3-Access-Points-for-FSx/ba-p/467768" target="_blank">Bridge your on-premises data center and AWS with Amazon S3 Access Points for FSx for ONTAP</a><small> **( NetApp )** </small> 
 
 <a href="https://bluexp.netapp.com/blog/cvo-blg-global-file-access-collaboration-meet-cloud-volumes-edge-cache" target="_blank">Global Access and File Collaboration: Meet NetApp Cloud Volumes Edge Cache</a><small> **( NetApp )** </small> 
 
 <a href="https://bluexp.netapp.com/blog/cvo-blg-optimize-your-google-cloud-disk-storage-costs" target="_blank">Optimize Your Google Cloud Disk Storage Costs</a><small> **( NetApp )** </small> 
 
-<a href="https://bluexp.netapp.com/blog/cvo-blg-the-future-of-file-collaboration" target="_blank">The Future of File Collaboration</a><small> **( NetApp )** </small> 
-
 {{< details "See more" >}}
+
+<a href="https://bluexp.netapp.com/blog/cvo-blg-the-future-of-file-collaboration" target="_blank">The Future of File Collaboration</a><small> **( NetApp )** </small> 
 
 <a href="https://medium.com/fortum-tech/step-by-step-guide-to-create-a-slack-app-for-incoming-webhooks-3d9b799e8ae1" target="_blank">Step by Step Guide to Create a Slack App for Incoming Webhooks</a><small> **( Fortum )** </small> 
 
