@@ -7,41 +7,41 @@ weight: 1
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
 
-* June/2026 **AI and Automation as a Leadership Test** @ <a href="https://mkt-europe.global.fujitsu.com/HybridIT-Event-Helsinki-fi-reg" target="_blank"> Fujitsu Hybrid IT</a>  (Helsinki, Finland  🇫🇮)  
+* June/2026 **"AI and Automation as a Leadership Test"** @ <a href="https://mkt-europe.global.fujitsu.com/HybridIT-Event-Helsinki-fi-reg" target="_blank"> Fujitsu Hybrid IT</a>  (Helsinki, Finland  🇫🇮)  
 
-* April/2026 **The Road to Autonomous IT** @ <a href="https://speaking.brunoamaro.com/twLZDJ/the-road-to-autonomous-it" target="_blank">ServiceNow AI Summit Finland</a>  (Helsinki, Finland  🇫🇮)
+* April/2026 **"The Road to Autonomous IT"** @ <a href="https://speaking.brunoamaro.com/twLZDJ/the-road-to-autonomous-it" target="_blank">ServiceNow AI Summit Finland</a>  (Helsinki, Finland  🇫🇮)
 
-* March/2025 **Platform Engineering Security: Strategies, Challenges, and Lessons Learned** @ <a href="https://speaking.brunoamaro.com/7wKxMZ/platform-engineering-security-strategies-challenges-and-lessons-learned" target="_blank">Platform Engineering Security Webinar</a>  (Online)
+* March/2025 **"Platform Engineering Security: Strategies, Challenges, and Lessons Learned"** @ <a href="https://speaking.brunoamaro.com/7wKxMZ/platform-engineering-security-strategies-challenges-and-lessons-learned" target="_blank">Platform Engineering Security Webinar</a>  (Online)
 
-* Nov/2024 **Driving Accountability Through Outsourced Responsibilities** @ <a href="https://www.finops.org/insights/finops-x-europe-breakouts/" target="_blank">FinOps X Europe</a>  (Barcelona, Spain  🇪🇸)
+* Nov/2024 **"Driving Accountability Through Outsourced Responsibilities"** @ <a href="https://www.finops.org/insights/finops-x-europe-breakouts/" target="_blank">FinOps X Europe</a>  (Barcelona, Spain  🇪🇸)
 
-* Nov/2024 **Bridging The Gap: Traditional IT Infrastructure <> Platform Engineering <> Innovation** @ <a href="https://speaking.brunoamaro.com/rLMIWV/bridging-the-gap-traditional-it-infrastructure-platform-engineering-innovation" target="_blank">Future of Software</a>  (Helsinki, Finland  🇫🇮)
+* Nov/2024 **"Bridging The Gap: Traditional IT Infrastructure <> Platform Engineering <> Innovation"** @ <a href="https://speaking.brunoamaro.com/rLMIWV/bridging-the-gap-traditional-it-infrastructure-platform-engineering-innovation" target="_blank">Future of Software</a>  (Helsinki, Finland  🇫🇮)
 
-* Sept/2024 **Fortum’s Zero Trust Adoption Journey: IT/OT Convergence and Strategic Business Drivers** @ <a href="https://speaking.brunoamaro.com/W8X8q3/fortums-zero-trust-adoption-journey-it-ot-convergence-and-strategic-business-drivers" target="_blank">IDC Security Helsinki</a>  (Helsinki, Finland  🇫🇮)
+* Sept/2024 **"Fortum’s Zero Trust Adoption Journey: IT/OT Convergence and Strategic Business Drivers"** @ <a href="https://speaking.brunoamaro.com/W8X8q3/fortums-zero-trust-adoption-journey-it-ot-convergence-and-strategic-business-drivers" target="_blank">IDC Security Helsinki</a>  (Helsinki, Finland  🇫🇮)
 
 {{< details "See more" >}}
 
-* April/2024 **Rethinking AWS Cloud and Platform Engineering for Digital Acceleration** @ <a href="https://speaking.brunoamaro.com/hIgRI8/rethinking-aws-cloud-and-platform-engineering-for-digital-acceleration" target="_blank">AWS for Industries Symposium </a>  (Helsinki, Finland  🇫🇮)
+* April/2024 **"Rethinking AWS Cloud and Platform Engineering for Digital Acceleration"** @ <a href="https://speaking.brunoamaro.com/hIgRI8/rethinking-aws-cloud-and-platform-engineering-for-digital-acceleration" target="_blank">AWS for Industries Symposium </a>  (Helsinki, Finland  🇫🇮)
 
-* Nov/2023 **Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration** @ <a href="https://speaking.brunoamaro.com/rip66U/rethinking-aws-cloudops-and-platform-engineering-for-digital-acceleration-at-scale" target="_blank">t AWS for Energy | Estonian Energy & Utilities Day </a>  (Tallin, Estonia  🇪🇪)
+* Nov/2023 **"Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration"** @ <a href="https://speaking.brunoamaro.com/rip66U/rethinking-aws-cloudops-and-platform-engineering-for-digital-acceleration-at-scale" target="_blank">AWS for Energy | Estonian Energy & Utilities Day </a>  (Tallin, Estonia  🇪🇪)
 
-* May/2023 **Engineering Culture: An Essential Guide to Leverage Cloud, DevOps & Data for Business** @ <a href="https://www.devopsagileskills.org/dasa-connect-2023/" target="_blank">DASA Connect 2023</a>  (Online) 
+* May/2023 **"Engineering Culture: An Essential Guide to Leverage Cloud, DevOps & Data for Business"** @ <a href="https://www.devopsagileskills.org/dasa-connect-2023/" target="_blank">DASA Connect 2023</a>  (Online) 
 
-* May/2023 **150 Days of FinOps** @ <a href="https://www.linkedin.com/events/stockholmfinopsroadshow7054023249399029760/comments/" target="_blank">FinOps Roadshow Stockholm</a> (Stockholm, Sweden 🇸🇪)
+* May/2023 **"150 Days of FinOps"** @ <a href="https://www.linkedin.com/events/stockholmfinopsroadshow7054023249399029760/comments/" target="_blank">FinOps Roadshow Stockholm</a> (Stockholm, Sweden 🇸🇪)
 
-* May/2023 **Leveraging Slack for Colaboration, Technology Governance and Accelerating Digital Development** @ <a href="https://invite.salesforce.com/worldtouressentialshelsinki" target="_blank">Salesforce World Tour Essentials</a> (Helsinki, Finland  🇫🇮)  
+* May/2023 **"Leveraging Slack for Colaboration, Technology Governance and Accelerating Digital Development"** @ <a href="https://invite.salesforce.com/worldtouressentialshelsinki" target="_blank">Salesforce World Tour Essentials</a> (Helsinki, Finland  🇫🇮)  
 
-* April/2023 **Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration at Scale** @ <a href="https://speaking.brunoamaro.com/kkUUZ1/rethinking-aws-cloudops-and-platform-engineering-for-digital-acceleration-at-scale" target="_blank">AWS Community Day Nordics 2023</a> (Helsinki, Finland  🇫🇮) 
+* April/2023 **"Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration at Scale"** @ <a href="https://speaking.brunoamaro.com/kkUUZ1/rethinking-aws-cloudops-and-platform-engineering-for-digital-acceleration-at-scale" target="_blank">AWS Community Day Nordics 2023</a> (Helsinki, Finland  🇫🇮) 
 
-* April/2023 **7 AWS Deadly Sins** @ <a href="https://www.meetup.com/aws-user-group-lisbon/events/292699451/" target="_blank">AWS User Group Lisbon</a> (Lisbon, Portugal 🇵🇹) 
+* April/2023 **"7 AWS Deadly Sins"** @ <a href="https://www.meetup.com/aws-user-group-lisbon/events/292699451/" target="_blank">AWS User Group Lisbon</a> (Lisbon, Portugal 🇵🇹) 
 
-* March/2023 **Rethinking AWS and Azure CloudOps for Digital Acceleration at Scale** @ <a href="https://speaking.brunoamaro.com/wcuRio/rethinking-aws-and-azure-cloudops-for-digital-acceleration-at-scale" target="_blank">CodeFrenzy</a> (Online) 
+* March/2023 **"Rethinking AWS and Azure CloudOps for Digital Acceleration at Scale"** @ <a href="https://speaking.brunoamaro.com/wcuRio/rethinking-aws-and-azure-cloudops-for-digital-acceleration-at-scale" target="_blank">CodeFrenzy</a> (Online) 
 
-* March/2023 **Implementing a DevOps Cloud Strategy for Enterprises** @ <a href="https://www.linkedin.com/events/implementingadevopscloudstrateg7028993152854159360/comments/" target="_blank">DASA - Webinar</a> (Online)
+* March/2023 **"Implementing a DevOps Cloud Strategy for Enterprises"** @ <a href="https://www.linkedin.com/events/implementingadevopscloudstrateg7028993152854159360/comments/" target="_blank">DASA - Webinar</a> (Online)
 
-* November/2022 **Rethinking AWS and Azure CloudOps for Digital Acceleration at Scale"** @ <a href="https://www.idc.com/eu/events/70139-idc-future-of-infrastructure-2022" target="_blank">IDC - Future of Infrastructure</a> (Helsinki, Finland  🇫🇮) 
+* November/2022 **"Rethinking AWS and Azure CloudOps for Digital Acceleration at Scale""** @ <a href="https://www.idc.com/eu/events/70139-idc-future-of-infrastructure-2022" target="_blank">IDC - Future of Infrastructure</a> (Helsinki, Finland  🇫🇮) 
 
-* November/2022 **How Fortum Develops Enterprise and Startup Digital Solutions Leveraging Github Capabilities** @ <a href="https://speaking.brunoamaro.com/rRuiYg/how-fortum-develops-enterprise-and-startup-digital-solutions-leveraging-github-capabilities" target="_blank">Slush</a> (Helsinki, Finland  🇫🇮)
+* November/2022 **"How Fortum Develops Enterprise and Startup Digital Solutions Leveraging Github Capabilities"** @ <a href="https://speaking.brunoamaro.com/rRuiYg/how-fortum-develops-enterprise-and-startup-digital-solutions-leveraging-github-capabilities" target="_blank">Slush</a> (Helsinki, Finland  🇫🇮)
 
 * September/2022 **"We adopted DevOps and are Cloud-native. Now What?"** @ <a href="https://speaking.brunoamaro.com/OFaDF3/we-adopted-devops-and-are-cloud-native-now-what" target="_blank">DevOpsDays Portugal</a> (Porto, Portugal 🇵🇹)
 
