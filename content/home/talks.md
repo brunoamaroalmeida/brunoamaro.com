@@ -7,9 +7,21 @@ weight: 1
 .markdown ul { text-align: left !important; margin-left: 0 !important }
 </style>
 
+* March/2027 **"Shaping the new tomorrow"** @ <a href="https://professioexecutive.com/tuote/cio-nordic/" target="_blank">CIO Nordics</a>  (Helsinki, Finland  🇫🇮)
+  
+* November/2026 **"Panel: Road to Autonomous IT"** @ <a href="https://www.sofigate.com/sofigate-summit-2026/" target="_blank"> Sofigate Summit 2026</a>  (Helsinki, Finland  🇫🇮)
+
+* October/2026 **"Panel: Autonomous IT - Focus People on What Matters"** @ <a href="https://www.servicenow.com/events/world-forum/amsterdam.html" target="_blank"> Service Now World Forum</a>  (Amsterdam, Netherland  🇳🇱)
+
+* October/2026 **"Panel: Reinvent the Technology Operating Model for a World Beyond IT"** @ <a href="https://lnkd.in/p/e65jagzD" target="_blank"> Gartner Executive Local Briefing</a>  (Helsinki, Finland  🇫🇮)
+
+* September/2026 **"Panel: Autonomous IT"** @ <a href="https://lnkd.in/p/eEC3gQM6" target="_blank">Sofigate Executive Breakfast</a>  (Helsinki, Finland  🇫🇮)
+
 * June/2026 **"AI and Automation as a Leadership Test"** @ <a href="https://mkt-europe.global.fujitsu.com/HybridIT-Event-Helsinki-fi-reg" target="_blank"> Fujitsu Hybrid IT</a>  (Helsinki, Finland  🇫🇮)  
 
 * April/2026 **"The Road to Autonomous IT"** @ <a href="https://speaking.brunoamaro.com/twLZDJ/the-road-to-autonomous-it" target="_blank">ServiceNow AI Summit Finland</a>  (Helsinki, Finland  🇫🇮)
+
+{{< details "See more" >}}
 
 * March/2025 **"Platform Engineering Security: Strategies, Challenges, and Lessons Learned"** @ <a href="https://speaking.brunoamaro.com/7wKxMZ/platform-engineering-security-strategies-challenges-and-lessons-learned" target="_blank">Platform Engineering Security Webinar</a>  (Online)
 
@@ -18,8 +30,6 @@ weight: 1
 * Nov/2024 **"Bridging The Gap: Traditional IT Infrastructure <> Platform Engineering <> Innovation"** @ <a href="https://speaking.brunoamaro.com/rLMIWV/bridging-the-gap-traditional-it-infrastructure-platform-engineering-innovation" target="_blank">Future of Software</a>  (Helsinki, Finland  🇫🇮)
 
 * Sept/2024 **"Fortum’s Zero Trust Adoption Journey: IT/OT Convergence and Strategic Business Drivers"** @ <a href="https://speaking.brunoamaro.com/W8X8q3/fortums-zero-trust-adoption-journey-it-ot-convergence-and-strategic-business-drivers" target="_blank">IDC Security Helsinki</a>  (Helsinki, Finland  🇫🇮)
-
-{{< details "See more" >}}
 
 * April/2024 **"Rethinking AWS Cloud and Platform Engineering for Digital Acceleration"** @ <a href="https://speaking.brunoamaro.com/hIgRI8/rethinking-aws-cloud-and-platform-engineering-for-digital-acceleration" target="_blank">AWS for Industries Symposium </a>  (Helsinki, Finland  🇫🇮)
 
