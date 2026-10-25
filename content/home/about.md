@@ -13,4 +13,4 @@ Alongside my executive role, I advise organisations and senior leaders on *techn
 
 Based in Helsinki, I bring a strong background in cybersecurity, digital development and cloud architecture. I bridge technical execution with board-level business objectives, helping organisations use technology as a differentiator for profitability and scale while strengthening digital resilience and creating sustainable business value.
 
-Through [exce.pt](https://exce.pt), I also provide executive advisory, fractional CIO/CTO/CISO support, training and other technology-related services.
+For executive advisory, speaking engagements, training or fractional technology leadership, visit [exce.pt](https://exce.pt) or get in touch.
