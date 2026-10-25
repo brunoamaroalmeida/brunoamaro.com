@@ -11,7 +11,7 @@ weight: 1
   
 * November/2026 **"Panel: Road to Autonomous IT"** @ <a href="https://www.sofigate.com/sofigate-summit-2026/" target="_blank"> Sofigate Summit 2026</a>  (Helsinki, Finland  🇫🇮)
 
-* October/2026 **"Panel: Autonomous IT - Focus People on What Matters"** @ <a href="https://www.servicenow.com/events/world-forum/amsterdam.html" target="_blank"> Service Now World Forum</a>  (Amsterdam, Netherland  🇳🇱)
+* October/2026 **"Panel: Autonomous IT - Focus People on What Matters"** @ <a href="https://www.servicenow.com/events/world-forum/amsterdam.html" target="_blank"> ServiceNow World Forum</a>  (Amsterdam, the Netherlands  🇳🇱)
 
 * October/2026 **"Panel: Reinvent the Technology Operating Model for a World Beyond IT"** @ <a href="https://lnkd.in/p/e65jagzD" target="_blank"> Gartner Executive Local Briefing</a>  (Helsinki, Finland  🇫🇮)
 
